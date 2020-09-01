@@ -2,7 +2,7 @@ import requests,time
 
 print("""
 	[ MATAHARI MALL OTP ]
-	   -Asecx | MR W1NN3R-
+	 -Asecx | MR W1NN3R-
 """)
 
 no = input('ex : 08xx\n[In] Phone: ')
