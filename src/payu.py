@@ -32,7 +32,7 @@ class Payu:
 		print("""
 		;;;;;;;;;;;;;;;;;;;;;;;;
 		; SMS Gratis PayuTerus ;
-		;      - mr.winner -      ;
+		;     - MR W1NN3R -    ;
 		;;;;;;;;;;;;;;;;;;;;;;;;
 		""")
 		no=input('[?] Nomor Target: ')
