@@ -10,7 +10,7 @@ class Main:
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 		;       S P A M  S M S      ;
 		;---------------------------;
-		;       Author : noobie     ;
+		;       Author :  MR W1NN3R ;
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 NOTE: This tool's only work for Indonesia number phone.
 1. SMS Gratis
@@ -19,7 +19,7 @@ NOTE: This tool's only work for Indonesia number phone.
 4. OTP Olx.co.id
 5. OTP Sociolla.com
 """)
-		pilih=int(input('noobie/> '))
+		pilih=int(input('W1NN3R/> '))
 		if pilih == 1:
 			import src.payu
 		elif pilih == 2:
