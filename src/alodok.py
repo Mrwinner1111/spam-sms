@@ -2,7 +2,7 @@ import requests, time
 
 print("""
 	[ HALLODOK OTP ]
-	    -MR W1NNER-
+	  -MR W1NNER-
 """)
 
 num=input("[In] Nomor: ")
