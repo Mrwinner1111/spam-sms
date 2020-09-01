@@ -2,7 +2,7 @@ import requests, time
 
 print("""
 	[ HALLODOK OTP ]
-	    -mr.winner-
+	    -MR W1NNER-
 """)
 
 num=input("[In] Nomor: ")
@@ -19,3 +19,23 @@ for x in range(jum):
 			print(f"{x+1}. Gagal {num}")
 	except Exception as e:
 		print(f"{x+1}. Pass: {e}")
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
